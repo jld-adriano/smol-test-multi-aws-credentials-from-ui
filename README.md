@@ -1,0 +1,1 @@
+# smol-test-multi-aws-credentials-from-ui
